@@ -5,6 +5,10 @@ from dash import Dash, html, dcc
 import plotly.express as px
 import pandas as pd
 
+from dadosMt5 import *
+
+
+
 app = Dash(__name__)
 
 # assume you have a "long-form" data frame

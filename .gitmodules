@@ -1,3 +1,6 @@
 [submodule "dadosMt5"]
 	path = dadosMt5
 	url = https://github.com/c-mmonteiro/dadosMt5.git
+[submodule "blackScholes"]
+	path = blackScholes
+	url = https://github.com/c-mmonteiro/blackScholes.git
